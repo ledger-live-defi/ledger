@@ -38,6 +38,6 @@ window.addEventListener('DOMContentLoaded', () => {
         setTimeout(() => {
             toggleLoad();
             
-        }, 1000);        
+        }, 2000);        
     })
 })
